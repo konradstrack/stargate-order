@@ -1,0 +1,1535 @@
+[{
+	"name": "Stargate",
+	"type": "film"
+}, {
+	"name": "Children of the Gods, Part 1",
+	"type": "SG1",
+	"season": "1"
+}, {
+	"name": "Children of the Gods, Part 2",
+	"type": "SG1",
+	"season": "1"
+}, {
+	"name": "The Enemy Within",
+	"type": "SG1",
+	"season": "1"
+}, {
+	"name": "Emancipation",
+	"type": "SG1",
+	"season": "1"
+}, {
+	"name": "The Broca Divide",
+	"type": "SG1",
+	"season": "1"
+}, {
+	"name": "The First Commandment",
+	"type": "SG1",
+	"season": "1"
+}, {
+	"name": "Cold Lazarus",
+	"type": "SG1",
+	"season": "1"
+}, {
+	"name": "The Nox",
+	"type": "SG1",
+	"season": "1"
+}, {
+	"name": "Brief Candle",
+	"type": "SG1",
+	"season": "1"
+}, {
+	"name": "Thor’s Hammer",
+	"type": "SG1",
+	"season": "1"
+}, {
+	"name": "The Torment of Tantalus",
+	"type": "SG1",
+	"season": "1"
+}, {
+	"name": "Bloodlines",
+	"type": "SG1",
+	"season": "1"
+}, {
+	"name": "Fire and Water",
+	"type": "SG1",
+	"season": "1"
+}, {
+	"name": "Hathor",
+	"type": "SG1",
+	"season": "1"
+}, {
+	"name": "Singularity",
+	"type": "SG1",
+	"season": "1"
+}, {
+	"name": "Cor-ai",
+	"type": "SG1",
+	"season": "1"
+}, {
+	"name": "Enigma",
+	"type": "SG1",
+	"season": "1"
+}, {
+	"name": "Solitudes",
+	"type": "SG1",
+	"season": "1"
+}, {
+	"name": "Tin Man",
+	"type": "SG1",
+	"season": "1"
+}, {
+	"name": "There but for the Grace of God",
+	"type": "SG1",
+	"season": "1"
+}, {
+	"name": "Politics",
+	"type": "SG1",
+	"season": "1"
+}, {
+	"name": "Within the Serpent’s Grasp",
+	"type": "SG1",
+	"season": "1"
+}, {
+	"name": "The Serpent’s Lair",
+	"type": "SG1",
+	"season": "2"
+}, {
+	"name": "In the Line of Duty",
+	"type": "SG1",
+	"season": "2"
+}, {
+	"name": "Prisoners",
+	"type": "SG1",
+	"season": "2"
+}, {
+	"name": "The Gamekeeper",
+	"type": "SG1",
+	"season": "2"
+}, {
+	"name": "Need",
+	"type": "SG1",
+	"season": "2"
+}, {
+	"name": "Thor’s Chariot",
+	"type": "SG1",
+	"season": "2"
+}, {
+	"name": "Message in a Bottle",
+	"type": "SG1",
+	"season": "2"
+}, {
+	"name": "Family",
+	"type": "SG1",
+	"season": "2"
+}, {
+	"name": "Secrets",
+	"type": "SG1",
+	"season": "2"
+}, {
+	"name": "Bane",
+	"type": "SG1",
+	"season": "2"
+}, {
+	"name": "The Tok’ra, Part 1",
+	"type": "SG1",
+	"season": "2"
+}, {
+	"name": "The Tok’ra, Part 2",
+	"type": "SG1",
+	"season": "2"
+}, {
+	"name": "Spirits",
+	"type": "SG1",
+	"season": "2"
+}, {
+	"name": "Touchstone",
+	"type": "SG1",
+	"season": "2"
+}, {
+	"name": "A Matter of Time",
+	"type": "SG1",
+	"season": "2"
+}, {
+	"name": "The Fifth Race",
+	"type": "SG1",
+	"season": "2"
+}, {
+	"name": "Serpent’s Song",
+	"type": "SG1",
+	"season": "2"
+}, {
+	"name": "Holiday",
+	"type": "SG1",
+	"season": "2"
+}, {
+	"name": "One False Step",
+	"type": "SG1",
+	"season": "2"
+}, {
+	"name": "Show and Tell",
+	"type": "SG1",
+	"season": "2"
+}, {
+	"name": "1969",
+	"type": "SG1",
+	"season": "2"
+}, {
+	"name": "Out of Mind",
+	"type": "SG1",
+	"season": "2"
+}, {
+	"name": "Into the Fire",
+	"type": "SG1",
+	"season": "3"
+}, {
+	"name": "Seth",
+	"type": "SG1",
+	"season": "3"
+}, {
+	"name": "Fair Game",
+	"type": "SG1",
+	"season": "3"
+}, {
+	"name": "Legacy",
+	"type": "SG1",
+	"season": "3"
+}, {
+	"name": "Learning Curve",
+	"type": "SG1",
+	"season": "3"
+}, {
+	"name": "Point of View",
+	"type": "SG1",
+	"season": "3"
+}, {
+	"name": "Deadman Switch",
+	"type": "SG1",
+	"season": "3"
+}, {
+	"name": "Demons",
+	"type": "SG1",
+	"season": "3"
+}, {
+	"name": "Rules of Engagement",
+	"type": "SG1",
+	"season": "3"
+}, {
+	"name": "Forever in a Day",
+	"type": "SG1",
+	"season": "3"
+}, {
+	"name": "Past and Present",
+	"type": "SG1",
+	"season": "3"
+}, {
+	"name": "Jolinar’s Memories",
+	"type": "SG1",
+	"season": "3"
+}, {
+	"name": "The Devil You Know",
+	"type": "SG1",
+	"season": "3"
+}, {
+	"name": "Foothold",
+	"type": "SG1",
+	"season": "3"
+}, {
+	"name": "Pretense",
+	"type": "SG1",
+	"season": "3"
+}, {
+	"name": "Urgo",
+	"type": "SG1",
+	"season": "3"
+}, {
+	"name": "A Hundred Days",
+	"type": "SG1",
+	"season": "3"
+}, {
+	"name": "Shades of Grey",
+	"type": "SG1",
+	"season": "3"
+}, {
+	"name": "New Ground",
+	"type": "SG1",
+	"season": "3"
+}, {
+	"name": "Maternal Instinct",
+	"type": "SG1",
+	"season": "3"
+}, {
+	"name": "Crystal Skull",
+	"type": "SG1",
+	"season": "3"
+}, {
+	"name": "Nemesis",
+	"type": "SG1",
+	"season": "3"
+}, {
+	"name": "Small Victories",
+	"type": "SG1",
+	"season": "4"
+}, {
+	"name": "The Other Side",
+	"type": "SG1",
+	"season": "4"
+}, {
+	"name": "Upgrades",
+	"type": "SG1",
+	"season": "4"
+}, {
+	"name": "Crossroads",
+	"type": "SG1",
+	"season": "4"
+}, {
+	"name": "Divide and Conquer",
+	"type": "SG1",
+	"season": "4"
+}, {
+	"name": "Window of Opportunity",
+	"type": "SG1",
+	"season": "4"
+}, {
+	"name": "Watergate",
+	"type": "SG1",
+	"season": "4"
+}, {
+	"name": "The First Ones",
+	"type": "SG1",
+	"season": "4"
+}, {
+	"name": "Scorched Earth",
+	"type": "SG1",
+	"season": "4"
+}, {
+	"name": "Beneath the Surface",
+	"type": "SG1",
+	"season": "4"
+}, {
+	"name": "Point of No Return",
+	"type": "SG1",
+	"season": "4"
+}, {
+	"name": "Tangent",
+	"type": "SG1",
+	"season": "4"
+}, {
+	"name": "The Curse",
+	"type": "SG1",
+	"season": "4"
+}, {
+	"name": "The Serpent’s Venom",
+	"type": "SG1",
+	"season": "4"
+}, {
+	"name": "Chain Reaction",
+	"type": "SG1",
+	"season": "4"
+}, {
+	"name": "2010",
+	"type": "SG1",
+	"season": "4"
+}, {
+	"name": "Absolute Power",
+	"type": "SG1",
+	"season": "4"
+}, {
+	"name": "The Light",
+	"type": "SG1",
+	"season": "4"
+}, {
+	"name": "Prodigy",
+	"type": "SG1",
+	"season": "4"
+}, {
+	"name": "Entity",
+	"type": "SG1",
+	"season": "4"
+}, {
+	"name": "Double Jeopardy",
+	"type": "SG1",
+	"season": "4"
+}, {
+	"name": "Exodus",
+	"type": "SG1",
+	"season": "4"
+}, {
+	"name": "Enemies",
+	"type": "SG1",
+	"season": "5"
+}, {
+	"name": "Threshold",
+	"type": "SG1",
+	"season": "5"
+}, {
+	"name": "Ascension",
+	"type": "SG1",
+	"season": "5"
+}, {
+	"name": "The Fifth Man",
+	"type": "SG1",
+	"season": "5"
+}, {
+	"name": "Red Sky",
+	"type": "SG1",
+	"season": "5"
+}, {
+	"name": "Rite of Passage",
+	"type": "SG1",
+	"season": "5"
+}, {
+	"name": "Beast of Burden",
+	"type": "SG1",
+	"season": "5"
+}, {
+	"name": "The Tomb",
+	"type": "SG1",
+	"season": "5"
+}, {
+	"name": "Between Two Fires",
+	"type": "SG1",
+	"season": "5"
+}, {
+	"name": "2001",
+	"type": "SG1",
+	"season": "5"
+}, {
+	"name": "Desperate Measures",
+	"type": "SG1",
+	"season": "5"
+}, {
+	"name": "Wormhole X-Treme!",
+	"type": "SG1",
+	"season": "5"
+}, {
+	"name": "Proving Ground",
+	"type": "SG1",
+	"season": "5"
+}, {
+	"name": "48 Hours",
+	"type": "SG1",
+	"season": "5"
+}, {
+	"name": "Summit",
+	"type": "SG1",
+	"season": "5"
+}, {
+	"name": "Last Stand",
+	"type": "SG1",
+	"season": "5"
+}, {
+	"name": "Fail Safe",
+	"type": "SG1",
+	"season": "5"
+}, {
+	"name": "The Warrior",
+	"type": "SG1",
+	"season": "5"
+}, {
+	"name": "Menace",
+	"type": "SG1",
+	"season": "5"
+}, {
+	"name": "The Sentinel",
+	"type": "SG1",
+	"season": "5"
+}, {
+	"name": "Meridian",
+	"type": "SG1",
+	"season": "5"
+}, {
+	"name": "Revelations",
+	"type": "SG1",
+	"season": "5"
+}, {
+	"name": "Redemption, Part 1",
+	"type": "SG1",
+	"season": "6"
+}, {
+	"name": "Redemption, Part 2",
+	"type": "SG1",
+	"season": "6"
+}, {
+	"name": "Descent",
+	"type": "SG1",
+	"season": "6"
+}, {
+	"name": "Frozen",
+	"type": "SG1",
+	"season": "6"
+}, {
+	"name": "Nightwalkers",
+	"type": "SG1",
+	"season": "6"
+}, {
+	"name": "Abyss",
+	"type": "SG1",
+	"season": "6"
+}, {
+	"name": "Shadow Play",
+	"type": "SG1",
+	"season": "6"
+}, {
+	"name": "The Other Guys",
+	"type": "SG1",
+	"season": "6"
+}, {
+	"name": "Allegiance",
+	"type": "SG1",
+	"season": "6"
+}, {
+	"name": "Cure",
+	"type": "SG1",
+	"season": "6"
+}, {
+	"name": "Prometheus",
+	"type": "SG1",
+	"season": "6"
+}, {
+	"name": "Unnatural Selection",
+	"type": "SG1",
+	"season": "6"
+}, {
+	"name": "Sight Unseen",
+	"type": "SG1",
+	"season": "6"
+}, {
+	"name": "Smoke and Mirrors",
+	"type": "SG1",
+	"season": "6"
+}, {
+	"name": "Paradise Lost",
+	"type": "SG1",
+	"season": "6"
+}, {
+	"name": "Metamorphosis",
+	"type": "SG1",
+	"season": "6"
+}, {
+	"name": "Disclosure",
+	"type": "SG1",
+	"season": "6"
+}, {
+	"name": "Forsaken",
+	"type": "SG1",
+	"season": "6"
+}, {
+	"name": "The Changeling",
+	"type": "SG1",
+	"season": "6"
+}, {
+	"name": "Memento",
+	"type": "SG1",
+	"season": "6"
+}, {
+	"name": "Prophecy",
+	"type": "SG1",
+	"season": "6"
+}, {
+	"name": "Full Circle",
+	"type": "SG1",
+	"season": "6"
+}, {
+	"name": "Fallen",
+	"type": "SG1",
+	"season": "7"
+}, {
+	"name": "Homecoming",
+	"type": "SG1",
+	"season": "7"
+}, {
+	"name": "Fragile Balance",
+	"type": "SG1",
+	"season": "7"
+}, {
+	"name": "Orpheus",
+	"type": "SG1",
+	"season": "7"
+}, {
+	"name": "Revisions",
+	"type": "SG1",
+	"season": "7"
+}, {
+	"name": "Lifeboat",
+	"type": "SG1",
+	"season": "7"
+}, {
+	"name": "Enemy Mine",
+	"type": "SG1",
+	"season": "7"
+}, {
+	"name": "Space Race",
+	"type": "SG1",
+	"season": "7"
+}, {
+	"name": "Avenger 2.0",
+	"type": "SG1",
+	"season": "7"
+}, {
+	"name": "Birthright",
+	"type": "SG1",
+	"season": "7"
+}, {
+	"name": "Evolution, Part 1",
+	"type": "SG1",
+	"season": "7"
+}, {
+	"name": "Evolution, Part 2",
+	"type": "SG1",
+	"season": "7"
+}, {
+	"name": "Grace",
+	"type": "SG1",
+	"season": "7"
+}, {
+	"name": "Fallout",
+	"type": "SG1",
+	"season": "7"
+}, {
+	"name": "Chimera",
+	"type": "SG1",
+	"season": "7"
+}, {
+	"name": "Death Knell",
+	"type": "SG1",
+	"season": "7"
+}, {
+	"name": "Heroes, Part 1",
+	"type": "SG1",
+	"season": "7"
+}, {
+	"name": "Heroes, Part 2",
+	"type": "SG1",
+	"season": "7"
+}, {
+	"name": "Resurrection",
+	"type": "SG1",
+	"season": "7"
+}, {
+	"name": "Inauguration",
+	"type": "SG1",
+	"season": "7"
+}, {
+	"name": "Lost City, Part 1",
+	"type": "SG1",
+	"season": "7"
+}, {
+	"name": "Lost City, Part 2",
+	"type": "SG1",
+	"season": "7"
+}, {
+	"name": "New Order, Part 1",
+	"type": "SG1",
+	"season": "8"
+}, {
+	"name": "New Order, Part 2",
+	"type": "SG1",
+	"season": "8"
+}, {
+	"name": "Rising, Part 1",
+	"type": "SGA",
+	"season": "1"
+}, {
+	"name": "Rising, Part 2",
+	"type": "SGA",
+	"season": "1"
+}, {
+	"name": "Lockdown",
+	"type": "SG1",
+	"season": "8"
+}, {
+	"name": "Hide and Seek",
+	"type": "SGA",
+	"season": "1"
+}, {
+	"name": "Zero Hour",
+	"type": "SG1",
+	"season": "8"
+}, {
+	"name": "Thirty-Eight Minutes",
+	"type": "SGA",
+	"season": "1"
+}, {
+	"name": "Icon",
+	"type": "SG1",
+	"season": "8"
+}, {
+	"name": "Suspicion",
+	"type": "SGA",
+	"season": "1"
+}, {
+	"name": "Avatar",
+	"type": "SG1",
+	"season": "8"
+}, {
+	"name": "Childhood’s End",
+	"type": "SGA",
+	"season": "1"
+}, {
+	"name": "Affinity",
+	"type": "SG1",
+	"season": "8"
+}, {
+	"name": "Poisoning the Well",
+	"type": "SGA",
+	"season": "1"
+}, {
+	"name": "Covenant",
+	"type": "SG1",
+	"season": "8"
+}, {
+	"name": "Underground",
+	"type": "SGA",
+	"season": "1"
+}, {
+	"name": "Sacrifices",
+	"type": "SG1",
+	"season": "8"
+}, {
+	"name": "Home",
+	"type": "SGA",
+	"season": "1"
+}, {
+	"name": "Endgame",
+	"type": "SG1",
+	"season": "8"
+}, {
+	"name": "The Storm",
+	"type": "SGA",
+	"season": "1",
+	"comment": [
+		"This is a two-parter. 'The Eye' picks up the very moment",
+		"'The Storm' leaves off. If you want your viewing to have continuity,",
+		"watch them together instead of jamming 5 SG1 episodes in-between them."
+	]
+}, {
+	"name": "Gemini",
+	"type": "SG1",
+	"season": "8"
+}, {
+	"name": "Prometheus Unbound",
+	"type": "SG1",
+	"season": "8"
+}, {
+	"name": "It’s Good to be King",
+	"type": "SG1",
+	"season": "8"
+}, {
+	"name": "Full Alert",
+	"type": "SG1",
+	"season": "8"
+}, {
+	"name": "Citizen Joe",
+	"type": "SG1",
+	"season": "8"
+}, {
+	"name": "The Eye",
+	"type": "SGA",
+	"season": "1"
+}, {
+	"name": "Reckoning, Part 1",
+	"type": "SG1",
+	"season": "8"
+}, {
+	"name": "Reckoning, Part 2",
+	"type": "SG1",
+	"season": "8"
+}, {
+	"name": "The Defiant One",
+	"type": "SGA",
+	"season": "1"
+}, {
+	"name": "Hot Zone",
+	"type": "SGA",
+	"season": "1"
+}, {
+	"name": "Threads",
+	"type": "SG1",
+	"season": "8"
+}, {
+	"name": "Moebius, Part 1",
+	"type": "SG1",
+	"season": "8"
+}, {
+	"name": "Sanctuary",
+	"type": "SGA",
+	"season": "1"
+}, {
+	"name": "Before I Sleep",
+	"type": "SGA",
+	"season": "1"
+}, {
+	"name": "Moebius, Part 2",
+	"type": "SG1",
+	"season": "8"
+}, {
+	"name": "The Brotherhood",
+	"type": "SGA",
+	"season": "1"
+}, {
+	"name": "Letters from Pegasus",
+	"type": "SGA",
+	"season": "1"
+}, {
+	"name": "The Gift",
+	"type": "SGA",
+	"season": "1"
+}, {
+	"name": "The Siege, Part 1",
+	"type": "SGA",
+	"season": "1"
+}, {
+	"name": "The Siege, Part 2",
+	"type": "SGA",
+	"season": "1"
+}, {
+	"name": "Avalon, Part 1",
+	"type": "SG1",
+	"season": "9"
+}, {
+	"name": "The Siege, Part 3",
+	"type": "SGA",
+	"season": "2"
+}, {
+	"name": "Avalon, Part 2",
+	"type": "SG1",
+	"season": "9"
+}, {
+	"name": "The Intruder",
+	"type": "SGA",
+	"season": "2"
+}, {
+	"name": "Origin",
+	"type": "SG1",
+	"season": "9"
+}, {
+	"name": "Runner",
+	"type": "SGA",
+	"season": "2"
+}, {
+	"name": "The Ties That Bind",
+	"type": "SG1",
+	"season": "9"
+}, {
+	"name": "Duet",
+	"type": "SGA",
+	"season": "2"
+}, {
+	"name": "The Powers That Be",
+	"type": "SG1",
+	"season": "9"
+}, {
+	"name": "Condemned",
+	"type": "SGA",
+	"season": "2"
+}, {
+	"name": "Beachhead",
+	"type": "SG1",
+	"season": "9"
+}, {
+	"name": "Trinity",
+	"type": "SGA",
+	"season": "2"
+}, {
+	"name": "Ex Deus Machina",
+	"type": "SG1",
+	"season": "9"
+}, {
+	"name": "Instinct",
+	"type": "SGA",
+	"season": "2"
+}, {
+	"name": "Babylon",
+	"type": "SG1",
+	"season": "9"
+}, {
+	"name": "Conversion",
+	"type": "SGA",
+	"season": "2"
+}, {
+	"name": "Prototype",
+	"type": "SG1",
+	"season": "9"
+}, {
+	"name": "The Fourth Horseman, Part 1",
+	"type": "SG1",
+	"season": "9"
+}, {
+	"name": "Aurora",
+	"type": "SGA",
+	"season": "2"
+}, {
+	"name": "The Lost Boys",
+	"type": "SGA",
+	"season": "2"
+}, {
+	"name": "The Hive",
+	"type": "SGA",
+	"season": "2"
+}, {
+	"name": "Epiphany",
+	"type": "SGA",
+	"season": "2"
+}, {
+	"name": "Critical Mass",
+	"type": "SGA",
+	"season": "2"
+}, {
+	"name": "Grace Under Pressure",
+	"type": "SGA",
+	"season": "2"
+}, {
+	"name": "The Tower",
+	"type": "SGA",
+	"season": "2"
+}, {
+	"name": "The Long Goodbye",
+	"type": "SGA",
+	"season": "2"
+}, {
+	"name": "The Fourth Horseman, Part 2",
+	"type": "SG1",
+	"season": "9"
+}, {
+	"name": "Coup D’etat",
+	"type": "SGA",
+	"season": "2"
+}, {
+	"name": "Collateral Damage",
+	"type": "SG1",
+	"season": "9"
+}, {
+	"name": "Michael",
+	"type": "SGA",
+	"season": "2"
+}, {
+	"name": "Ripple Effect",
+	"type": "SG1",
+	"season": "9"
+}, {
+	"name": "Inferno",
+	"type": "SGA",
+	"season": "2"
+}, {
+	"name": "Stronghold",
+	"type": "SG1",
+	"season": "9"
+}, {
+	"name": "Allies",
+	"type": "SGA",
+	"season": "2"
+}, {
+	"name": "Ethon",
+	"type": "SG1",
+	"season": "9"
+}, {
+	"name": "Off the Grid",
+	"type": "SG1",
+	"season": "9"
+}, {
+	"name": "The Scourge",
+	"type": "SG1",
+	"season": "9"
+}, {
+	"name": "Arthur’s Mantle",
+	"type": "SG1",
+	"season": "9"
+}, {
+	"name": "Crusade",
+	"type": "SG1",
+	"season": "9"
+}, {
+	"name": "Camelot",
+	"type": "SG1",
+	"season": "9"
+}, {
+	"name": "Flesh and Blood",
+	"type": "SG1",
+	"season": "10"
+}, {
+	"name": "No Man’s Land",
+	"type": "SGA",
+	"season": "3"
+}, {
+	"name": "Morpheus",
+	"type": "SG1",
+	"season": "10"
+}, {
+	"name": "Misbegotten",
+	"type": "SGA",
+	"season": "3"
+}, {
+	"name": "The Pegasus Project",
+	"type": "SG1",
+	"season": "10"
+}, {
+	"name": "Irresistible",
+	"type": "SGA",
+	"season": "3"
+}, {
+	"name": "Insiders",
+	"type": "SG1",
+	"season": "10"
+}, {
+	"name": "Sateda",
+	"type": "SGA",
+	"season": "3"
+}, {
+	"name": "Uninvited",
+	"type": "SG1",
+	"season": "10"
+}, {
+	"name": "Progeny",
+	"type": "SGA",
+	"season": "3"
+}, {
+	"name": "200",
+	"type": "SG1",
+	"season": "10"
+}, {
+	"name": "The Real World",
+	"type": "SGA",
+	"season": "3"
+}, {
+	"name": "Counterstrike",
+	"type": "SG1",
+	"season": "10"
+}, {
+	"name": "Common Ground",
+	"type": "SGA",
+	"season": "3"
+}, {
+	"name": "Memento Mori",
+	"type": "SG1",
+	"season": "10"
+}, {
+	"name": "McKay and Mrs. Miller",
+	"type": "SGA",
+	"season": "3"
+}, {
+	"name": "Company of Thieves",
+	"type": "SG1",
+	"season": "10"
+}, {
+	"name": "Phantoms",
+	"type": "SGA",
+	"season": "3"
+}, {
+	"name": "The Quest, Part 1",
+	"type": "SG1",
+	"season": "10"
+}, {
+	"name": "The Return, Part 1",
+	"type": "SGA",
+	"season": "3"
+}, {
+	"name": "The Return, Part 2",
+	"type": "SGA",
+	"season": "3"
+}, {
+	"name": "Echoes",
+	"type": "SGA",
+	"season": "3"
+}, {
+	"name": "Irresponsible",
+	"type": "SGA",
+	"season": "3"
+}, {
+	"name": "Tao of Rodney",
+	"type": "SGA",
+	"season": "3"
+}, {
+	"name": "The Game",
+	"type": "SGA",
+	"season": "3"
+}, {
+	"name": "The Ark",
+	"type": "SGA",
+	"season": "3"
+}, {
+	"name": "The Quest, Part 2",
+	"type": "SG1",
+	"season": "10"
+}, {
+	"name": "Sunday",
+	"type": "SGA",
+	"season": "3"
+}, {
+	"name": "Line in the Sand",
+	"type": "SG1",
+	"season": "10"
+}, {
+	"name": "Submersion",
+	"type": "SGA",
+	"season": "3"
+}, {
+	"name": "The Road Not Taken",
+	"type": "SG1",
+	"season": "10"
+}, {
+	"name": "Vengeance",
+	"type": "SGA",
+	"season": "3"
+}, {
+	"name": "The Shroud",
+	"type": "SG1",
+	"season": "10"
+}, {
+	"name": "First Strike",
+	"type": "SGA",
+	"season": "3"
+}, {
+	"name": "Bounty",
+	"type": "SG1",
+	"season": "10"
+}, {
+	"name": "Bad Guys",
+	"type": "SG1",
+	"season": "10"
+}, {
+	"name": "Talion",
+	"type": "SG1",
+	"season": "10"
+}, {
+	"name": "Family Ties",
+	"type": "SG1",
+	"season": "10"
+}, {
+	"name": "Dominion",
+	"type": "SG1",
+	"season": "10"
+}, {
+	"name": "Unending",
+	"type": "SG1",
+	"season": "10"
+}, {
+	"name": "Adrift",
+	"type": "SGA",
+	"season": "4"
+}, {
+	"name": "Lifeline",
+	"type": "SGA",
+	"season": "4"
+}, {
+	"name": "Reunion",
+	"type": "SGA",
+	"season": "4"
+}, {
+	"name": "Doppelganger",
+	"type": "SGA",
+	"season": "4"
+}, {
+	"name": "Travelers",
+	"type": "SGA",
+	"season": "4"
+}, {
+	"name": "Tabula Rasa",
+	"type": "SGA",
+	"season": "4"
+}, {
+	"name": "Missing",
+	"type": "SGA",
+	"season": "4"
+}, {
+	"name": "The Seer",
+	"type": "SGA",
+	"season": "4"
+}, {
+	"name": "Miller’s Crossing",
+	"type": "SGA",
+	"season": "4"
+}, {
+	"name": "This Mortal Coil",
+	"type": "SGA",
+	"season": "4"
+}, {
+	"name": "Be All My Sins Remember’d",
+	"type": "SGA",
+	"season": "4"
+}, {
+	"name": "Spoils of War",
+	"type": "SGA",
+	"season": "4"
+}, {
+	"name": "Quarantine",
+	"type": "SGA",
+	"season": "4"
+}, {
+	"name": "Harmony",
+	"type": "SGA",
+	"season": "4"
+}, {
+	"name": "Outcast",
+	"type": "SGA",
+	"season": "4"
+}, {
+	"name": "Trio",
+	"type": "SGA",
+	"season": "4"
+}, {
+	"name": "Midway",
+	"type": "SGA",
+	"season": "4"
+}, {
+	"name": "The Kindred, Part 1",
+	"type": "SGA",
+	"season": "4"
+}, {
+	"name": "The Kindred, Part 2",
+	"type": "SGA",
+	"season": "4"
+}, {
+	"name": "The Last Man",
+	"type": "SGA",
+	"season": "4"
+}, {
+	"name": "The Ark of Truth",
+	"type": "SG1",
+	"season": "Film"
+}, {
+	"name": "Search and Rescue",
+	"type": "SGA",
+	"season": "5"
+}, {
+	"name": "The Seed",
+	"type": "SGA",
+	"season": "5"
+}, {
+	"name": "Broken Ties",
+	"type": "SGA",
+	"season": "5"
+}, {
+	"name": "Continuum",
+	"type": "SG1",
+	"season": "Film"
+}, {
+	"name": "The Daedalus Variations",
+	"type": "SGA",
+	"season": "5"
+}, {
+	"name": "Ghost in the Machine",
+	"type": "SGA",
+	"season": "5"
+}, {
+	"name": "The Shrine",
+	"type": "SGA",
+	"season": "5"
+}, {
+	"name": "Whispers",
+	"type": "SGA",
+	"season": "5"
+}, {
+	"name": "The Queen",
+	"type": "SGA",
+	"season": "5"
+}, {
+	"name": "Tracker",
+	"type": "SGA",
+	"season": "5"
+}, {
+	"name": "First Contact",
+	"type": "SGA",
+	"season": "5"
+}, {
+	"name": "The Lost Tribe",
+	"type": "SGA",
+	"season": "5"
+}, {
+	"name": "Outsiders",
+	"type": "SGA",
+	"season": "5"
+}, {
+	"name": "Inquisition",
+	"type": "SGA",
+	"season": "5"
+}, {
+	"name": "The Prodigal",
+	"type": "SGA",
+	"season": "5"
+}, {
+	"name": "Remnants",
+	"type": "SGA",
+	"season": "5"
+}, {
+	"name": "Brain Storm",
+	"type": "SGA",
+	"season": "5"
+}, {
+	"name": "Infection",
+	"type": "SGA",
+	"season": "5"
+}, {
+	"name": "Identity",
+	"type": "SGA",
+	"season": "5"
+}, {
+	"name": "Vegas",
+	"type": "SGA",
+	"season": "5"
+}, {
+	"name": "Enemy at the Gate",
+	"type": "SGA",
+	"season": "5"
+}, {
+	"name": "Air, Part 1",
+	"type": "SGU",
+	"season": "1"
+}, {
+	"name": "Air, Part 2",
+	"type": "SGU",
+	"season": "1"
+}, {
+	"name": "Air, Part 3",
+	"type": "SGU",
+	"season": "1"
+}, {
+	"name": "Darkness",
+	"type": "SGU",
+	"season": "1"
+}, {
+	"name": "Get Outta Here",
+	"type": "KW"
+}, {
+	"name": "Not the Com Lab",
+	"type": "KW"
+}, {
+	"name": "No Idea",
+	"type": "KW"
+}, {
+	"name": "The Stargate Room",
+	"type": "KW"
+}, {
+	"name": "Eli’s Room",
+	"type": "KW"
+}, {
+	"name": "Light",
+	"type": "SGU",
+	"season": "1"
+}, {
+	"name": "Don’t Encourage Him",
+	"type": "KW"
+}, {
+	"name": "Corridor Conversation",
+	"type": "KW"
+}, {
+	"name": "Marked Hatch",
+	"type": "KW"
+}, {
+	"name": "Not Supposed To Be In Here",
+	"type": "KW"
+}, {
+	"name": "Nobody Cares",
+	"type": "KW"
+}, {
+	"name": "Water",
+	"type": "SGU",
+	"season": "1"
+}, {
+	"name": "Kino Race",
+	"type": "KW"
+}, {
+	"name": "Covered Kino",
+	"type": "KW"
+}, {
+	"name": "Variety",
+	"type": "KW"
+}, {
+	"name": "Earth",
+	"type": "SGU",
+	"season": "1"
+}, {
+	"name": "You Okay?",
+	"type": "KW"
+}, {
+	"name": "Do I Look Stupid?",
+	"type": "KW"
+}, {
+	"name": "All Telford’s Fault",
+	"type": "KW"
+}, {
+	"name": "What’s That Light?",
+	"type": "KW"
+}, {
+	"name": "Time",
+	"type": "SGU",
+	"season": "1"
+}, {
+	"name": "New Kind of Crazy",
+	"type": "KW"
+}, {
+	"name": "Only Run When Chased",
+	"type": "KW"
+}, {
+	"name": "Life",
+	"type": "SGU",
+	"season": "1"
+}, {
+	"name": "Want Me To Bust Him Up?",
+	"type": "KW"
+}, {
+	"name": "The Apple Core",
+	"type": "KW"
+}, {
+	"name": "Justice",
+	"type": "SGU",
+	"season": "1"
+}, {
+	"name": "Not Just For Posterity",
+	"type": "KW"
+}, {
+	"name": "Chloe's Room",
+	"type": "KW"
+}, {
+	"name": "Disgusting Habit",
+	"type": "KW"
+}, {
+	"name": "Favourite Meal of All Time",
+	"type": "KW"
+}, {
+	"name": "Not Being There",
+	"type": "KW"
+}, {
+	"name": "Space",
+	"type": "SGU",
+	"season": "1"
+}, {
+	"name": "Divided",
+	"type": "SGU",
+	"season": "1"
+}, {
+	"name": "Faith",
+	"type": "SGU",
+	"season": "1"
+}, {
+	"name": "We Volunteer To Do This",
+	"type": "KW"
+}, {
+	"name": "Human",
+	"type": "SGU",
+	"season": "1"
+}, {
+	"name": "Wait For It",
+	"type": "KW"
+}, {
+	"name": "Lost",
+	"type": "SGU",
+	"season": "1"
+}, {
+	"name": "Sabotage",
+	"type": "SGU",
+	"season": "1"
+}, {
+	"name": "Pain",
+	"type": "SGU",
+	"season": "1"
+}, {
+	"name": "Drop the Sirs",
+	"type": "KW"
+}, {
+	"name": "Like a Hug",
+	"type": "KW"
+}, {
+	"name": "Subversion",
+	"type": "SGU",
+	"season": "1"
+}, {
+	"name": "Incursion, Part 1",
+	"type": "SGU",
+	"season": "1"
+}, {
+	"name": "Incursion, Part 2",
+	"type": "SGU",
+	"season": "1"
+}, {
+	"name": "Intervention",
+	"type": "SGU",
+	"season": "2"
+}, {
+	"name": "Aftermath",
+	"type": "SGU",
+	"season": "2"
+}, {
+	"name": "Awakening",
+	"type": "SGU",
+	"season": "2"
+}, {
+	"name": "Pathogen",
+	"type": "SGU",
+	"season": "2"
+}, {
+	"name": "Cloverdale",
+	"type": "SGU",
+	"season": "2"
+}, {
+	"name": "Trial and Error",
+	"type": "SGU",
+	"season": "2"
+}, {
+	"name": "The Greater Good",
+	"type": "SGU",
+	"season": "2"
+}, {
+	"name": "Malice",
+	"type": "SGU",
+	"season": "2"
+}, {
+	"name": "Visitation",
+	"type": "SGU",
+	"season": "2"
+}, {
+	"name": "Resurgence",
+	"type": "SGU",
+	"season": "2"
+}, {
+	"name": "One Long Endless Night",
+	"type": "KW"
+}, {
+	"name": "Horrible Accident",
+	"type": "KW"
+}, {
+	"name": "Painful Moments",
+	"type": "KW"
+}, {
+	"name": "All the Stages",
+	"type": "KW"
+}, {
+	"name": "Deliverance",
+	"type": "SGU",
+	"season": "2"
+}, {
+	"name": "Twin Destinies",
+	"type": "SGU",
+	"season": "2"
+}, {
+	"name": "Alliances",
+	"type": "SGU",
+	"season": "2"
+}, {
+	"name": "Hope",
+	"type": "SGU",
+	"season": "2"
+}, {
+	"name": "Seizure",
+	"type": "SGU",
+	"season": "2"
+}, {
+	"name": "The Hunt",
+	"type": "SGU",
+	"season": "2"
+}, {
+	"name": "Common Descent",
+	"type": "SGU",
+	"season": "2"
+}, {
+	"name": "Epilogue",
+	"type": "SGU",
+	"season": "2"
+}, {
+	"name": "Blockade",
+	"type": "SGU",
+	"season": "2"
+}, {
+	"name": "Gauntlet",
+	"type": "SGU",
+	"season": "2"
+}]

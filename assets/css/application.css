@@ -1,0 +1,26 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	background-color: #182B3D;
+	color: gray;
+}
+
+h1, h2 {
+	color: white;
+	font-family: 'Raleway', 'Open Sans', sans-serif;
+}
+
+footer {
+	padding: 1%;
+	font-size: 0.9em;
+	color: #bbb;
+	text-align: right;
+}
+
+a {
+	color: #eee;
+}
+
+a:hover {
+	color: #ccc;
+}
+

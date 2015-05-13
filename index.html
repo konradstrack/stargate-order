@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<html ng-app="stargate">
+<head>
+	<title>Stargate watching order</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular.min.js"></script>
+	<script src="assets/js/application.js"></script>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+	<link rel="stylesheet" href="assets/css/application.css">
+
+	<link href='http://fonts.googleapis.com/css?family=Roboto:400,700' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,400,300,600,700&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Raleway:400,300,600' rel='stylesheet' type='text/css'>
+</head>
+
+<body>
+	<div ng-controller="OrderController as order" id="order">
+		<div ng-repeat="episode in order.episodes">
+			<div episode></div>
+		</div>
+	</div>
+
+	<footer>
+		<p>Information about the order of episodes comes from <a href="http://stargate.wikia.com/wiki/Forum:In_what_order_should_we_watch_the_series%3F">Stargate Wiki</a>
+		and is available under the terms of the <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a></p>
+		<p><a href="https://github.com/konradstrack/stargate-order">This web app</a> is available under the terms of the MIT license. Copyright &copy; <a href="http://konrad.strack.pl">Konrad Strack</a> 2015.</p>
+	</footer>
+</body>
+</html>
