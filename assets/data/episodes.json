@@ -1184,8 +1184,7 @@
 	"season": "4"
 }, {
 	"name": "The Ark of Truth",
-	"type": "SG1",
-	"season": "Film"
+	"type": "film"
 }, {
 	"name": "Search and Rescue",
 	"type": "SGA",
@@ -1200,8 +1199,7 @@
 	"season": "5"
 }, {
 	"name": "Continuum",
-	"type": "SG1",
-	"season": "Film"
+	"type": "film"
 }, {
 	"name": "The Daedalus Variations",
 	"type": "SGA",
