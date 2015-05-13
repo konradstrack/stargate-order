@@ -1,6 +1,6 @@
 body {
 	font-family: 'Open Sans', sans-serif;
-	background-color: #182B3D;
+	background-color: white;
 }
 
 h1, h2 {
@@ -32,6 +32,10 @@ div#order {
 
 div.episode-row {
 	display: table-row;
+}
+
+div.episode-row:hover {
+	opacity: 0.9;
 }
 
 div.episode {

@@ -16,20 +16,9 @@
 <body>
 	<div ng-controller="OrderController as order" id="order">
 		<div ng-repeat="episode in order.episodes" class='episode-row'>
-			<div class="episode type-film">
-				<div ng-if="episode.type == 'film'" class="episode-data" episode></div>
-			</div>
-			<div class="episode type-sg1">
-				<div ng-if="episode.type == 'SG1'" episode></div>
-			</div>
-			<div class="episode type-sga">
-				<div ng-if="episode.type == 'SGA'" episode></div>
-			</div>
-			<div class="episode type-sgu">
-				<div ng-if="episode.type == 'SGU'" episode></div>
-			</div>
-			<div class="episode type-kw">
-				<div ng-if="episode.type == 'KW'" episode></div>
+			<div ng-repeat="type in order.episodeTypes" ng-class="['episode', type[1]]">
+				<div ng-if="episode.type == type[0]" episode></div>
+				</div>
 			</div>
 		</div>
 	</div>
