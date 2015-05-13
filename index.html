@@ -15,9 +15,21 @@
 
 <body>
 	<div ng-controller="OrderController as order" id="order">
-		<div ng-repeat="episode in order.episodes" class='episode-row'>
-			<div ng-repeat="type in order.episodeTypes" ng-class="['episode', type[1]]">
-				<div ng-if="episode.type == type[0]" episode></div>
+		<header id="main-header">
+			<h1>Stargate watching order</h2>
+			<div class="episode-table" id="episode-headers">
+				<div class="episode-row">
+					<div ng-repeat="type in order.episodeTypes" ng-class="['episode', type[1]]">
+						<h2>{{type[2]}}</h2>
+					</div>
+				</div>
+			</div>
+		</header>
+		
+		<div class="episode-table" id="episode-list" episode-list>
+			<div ng-repeat="episode in order.episodes" class="episode-row">
+				<div ng-repeat="type in order.episodeTypes" ng-class="['episode', type[1]]">
+					<div ng-if="episode.type == type[0]" episode></div>
 				</div>
 			</div>
 		</div>
