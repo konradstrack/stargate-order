@@ -1,7 +1,6 @@
 body {
 	font-family: 'Open Sans', sans-serif;
 	background-color: #182B3D;
-	color: gray;
 }
 
 h1, h2 {
@@ -22,5 +21,65 @@ a {
 
 a:hover {
 	color: #ccc;
+}
+
+/* episodes */
+
+div#order {
+	display: table;
+	width: 100%;
+}
+
+div.episode-row {
+	display: table-row;
+}
+
+div.episode {
+	display: table-cell;
+	width: 20%;
+}
+
+div.episode > div {
+	margin: 0.2em 1em;
+	padding: 0.2em;
+	color: white;
+}
+
+div.episode-season, div.episode-name {
+	border-radius: 3px;
+	background-color: rgba(256, 256, 256, 0.1);
+	display: inline-block;
+	height: 1.8em;
+	line-height: 1.8em;
+	font-size: 1.2em;
+	padding: 0 0.5em;
+}
+
+div.episode-season {
+	width: 1.8em;
+	text-align: center;
+}
+
+div.episode-name {
+}
+
+div.type-film {
+	background-color: #232020;
+}
+
+div.type-sg1 {
+	background-color: #553739;
+}
+
+div.type-sga {
+	background-color: #955E42;
+}
+
+div.type-sgu {
+	background-color: #9C914F;
+}
+
+div.type-kw {
+	background-color: #748E54;
 }
 
