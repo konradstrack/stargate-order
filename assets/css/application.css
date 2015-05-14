@@ -84,7 +84,7 @@ div.episode > div {
 	color: white;
 }
 
-div.episode-season, div.episode-name {
+div.episode-season, div.episode-name, div.episode-number {
 	border-radius: 3px;
 	background-color: rgba(256, 256, 256, 0.1);
 	display: inline-block;
@@ -99,7 +99,13 @@ div.episode-season {
 	text-align: center;
 }
 
+div.episode-number {
+	width: 2.2em;
+	text-align: center;
+}
+
 div.episode-name {
+	margin-left: 0.4em;
 }
 
 div.type-film {
