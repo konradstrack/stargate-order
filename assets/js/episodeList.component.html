@@ -1,15 +1,17 @@
-<div>
-	<nav>
-		<button ng-click="vm.previousId()">Previous</button>
-		<button ng-click="vm.nextId()">Next</button>
-	</nav>
-	<div class="episode-table" class="episode-headers">
-		<div class="episode-row">
-			<div ng-repeat="type in vm.episodeTypes" ng-class="['episode', type[1]]">
-				<h2>{{type[2]}}</h2>
+<div class="episode-order">
+	<header>
+		<nav>
+			<button ng-click="vm.previousId()">Previous</button>
+			<button ng-click="vm.nextId()">Next</button>
+		</nav>
+		<div class="episode-table" class="episode-headers">
+			<div class="episode-row">
+				<div ng-repeat="type in vm.episodeTypes" ng-class="['episode', type[1]]">
+					<h2>{{type[2]}}</h2>
+				</div>
 			</div>
 		</div>
-	</div>
+	</header>
 
 	<div class="episode-table" class="episode-list" episode-list>
 		<div ng-repeat="episode in vm.episodes" class="episode-row" id="{{episode.id}}">

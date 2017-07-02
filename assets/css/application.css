@@ -35,10 +35,7 @@ a:hover {
 
 /* episodes */
 
-#order {
-}
-
-#order header {
+.episode-order header {
 	position: fixed;
 	top: 0;
 	width: 100%;
@@ -47,16 +44,16 @@ a:hover {
 	z-index: 2;
 }
 
-#episode-headers {
+.episode-headers {
 	opacity: 0.9;
 }
 
-#episode-list {
+.episode-list {
 	background-color: white;
 	margin-top: 6em;
 }
 
-#episode-list div.episode:first-child {
+.episode-list div.episode:first-child {
 	padding-top: 0.3em;
 }
 
@@ -127,4 +124,3 @@ div.type-sgu {
 div.type-kw {
 	background-color: #748E54;
 }
-
