@@ -1,0 +1,21 @@
+<div>
+	<div class="episode-table" class="episode-headers">
+		<div class="episode-row">
+			<div ng-repeat="type in vm.episodeTypes" ng-class="['episode', type[1]]">
+				<h2>{{type[2]}}</h2>
+			</div>
+		</div>
+	</div>
+
+	<div class="episode-table" class="episode-list" episode-list>
+		<div ng-repeat="episode in vm.episodes" class="episode-row">
+			<div ng-repeat="type in vm.episodeTypes" ng-class="['episode', type[1]]">
+				<div ng-if="episode.type == type[0]">
+	        <div class="episode-season">{{episode.season || '-'}}</div>
+	        <div class="episode-number">{{episode.number || '-'}}</div>
+	        <div class="episode-name">{{episode.name}}</div>
+	      </div>
+			</div>
+		</div>
+	</div>
+</div>
