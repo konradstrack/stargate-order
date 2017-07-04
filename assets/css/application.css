@@ -1,6 +1,6 @@
 body {
 	font-family: 'Open Sans', sans-serif;
-	background-color: black;
+	background-color: #111111;
 }
 
 h1, h2 {
@@ -22,7 +22,7 @@ footer {
 	font-size: 0.9em;
 	color: #bbb;
 	text-align: right;
-	background-color: black;
+	background-color: #111111;
 }
 
 a {
@@ -37,67 +37,72 @@ a:hover {
 
 .episode-order header {
 	position: fixed;
-	top: 0;
+	bottom: 0;
 	width: 100%;
-	border-bottom: 1px solid black;
-	background-color: black;
+	border-top: 1px solid #111111;
+	background-color: #111111;
 	z-index: 2;
 }
 
 .episode-headers {
-	opacity: 0.9;
+	opacity: 0.8;
 }
 
 .episode-list {
-	background-color: white;
-	margin-top: 6em;
+	background-color: black;
 }
 
-.episode-list div.episode:first-child {
+.episode-list .episode:first-child {
 	padding-top: 0.3em;
 }
 
-div.episode-table {
+.episode-table {
 	display: table;
 	width: 100%;
 }
 
-div.episode-row {
+.episode-row {
 	display: table-row;
 }
 
-div.episode-row:hover {
+.episode-row:hover {
 	opacity: 0.9;
 }
 
-div.episode {
+.episode-row.past { opacity: 0.6; }
+.episode-row.current { opacity: 1; }
+.episode-row.future { opacity: 0.8; }
+
+.episode {
 	display: table-cell;
 	width: 20%;
 }
 
-div.episode > div {
-	margin: 0.2em 1em;
-	padding: 0.2em;
+.episode > div {
+	margin: 0.1em 0.2em;
+	padding: 0.1em;
 	color: white;
 }
 
-div.episode-season, div.episode-name, div.episode-number {
-	border-radius: 3px;
-	background-color: rgba(256, 256, 256, 0.1);
+.episode-season, .episode-name, .episode-number {
 	display: inline-block;
-	min-height: 1.8em;
-	line-height: 1.8em;
-	font-size: 1.2em;
-	padding: 0 0.5em;
+	min-height: 1.6em;
+	line-height: 1.6em;
+}
+
+.episode-season, .episode-number {
+	border-radius: 2px;
+	background-color: rgba(256, 256, 256, 0.1);
+	padding: 0 0.3em;
 }
 
 div.episode-season {
-	width: 1.8em;
+	width: 1.4em;
 	text-align: center;
 }
 
 div.episode-number {
-	width: 2.2em;
+	width: 2em;
 	text-align: center;
 }
 

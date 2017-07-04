@@ -1,6 +1,7 @@
 [{
 	"name": "Stargate",
-	"type": "film"
+	"type": "film",
+	"number": "1"
 }, {
 	"name": "Children of the Gods, Part 1",
 	"type": "SG1",
@@ -1473,7 +1474,8 @@
 	"number": ""
 }, {
 	"name": "The Ark of Truth",
-	"type": "film"
+	"type": "film",
+	"number": "2"
 }, {
 	"name": "Search and Rescue",
 	"type": "SGA",
@@ -1491,7 +1493,8 @@
 	"number": ""
 }, {
 	"name": "Continuum",
-	"type": "film"
+	"type": "film",
+	"number": "3"
 }, {
 	"name": "The Daedalus Variations",
 	"type": "SGA",

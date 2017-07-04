@@ -1,20 +1,22 @@
 <div class="episode-order">
 	<header>
-		<nav>
-			<button ng-click="vm.previousId()">Previous</button>
-			<button ng-click="vm.nextId()">Next</button>
-		</nav>
-		<div class="episode-table" class="episode-headers">
+		<div class="episode-table episode-headers">
 			<div class="episode-row">
 				<div ng-repeat="type in vm.episodeTypes" ng-class="['episode', type[1]]">
 					<h2>{{type[2]}}</h2>
 				</div>
 			</div>
 		</div>
+
+		<nav>
+			<button ng-click="vm.previousId()">Previous</button>
+			<button ng-click="vm.nextId()">Next</button>
+		</nav>
 	</header>
 
-	<div class="episode-table" class="episode-list" episode-list>
-		<div ng-repeat="episode in vm.episodes" class="episode-row" id="{{episode.id}}">
+	<div class="episode-table episode-list" episode-list>
+		<div ng-repeat="episode in vm.episodes" class="episode-row" id="{{episode.id}}"
+			ng-class="{'past': $index < vm.currentIndex(), 'current': $index == vm.currentIndex(), 'future': $index > vm.currentIndex()}">
 			<div ng-repeat="type in vm.episodeTypes" ng-class="['episode', type[1]]">
 				<div ng-if="episode.type == type[0]">
 	        <div class="episode-season">{{episode.season || '-'}}</div>
