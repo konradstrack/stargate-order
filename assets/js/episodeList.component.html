@@ -19,7 +19,7 @@
 			ng-class="{'past': $index < vm.currentIndex(), 'current': $index == vm.currentIndex(), 'future': $index > vm.currentIndex()}">
 			<div ng-repeat="type in vm.episodeTypes" ng-class="['episode', type[1]]">
 				<div ng-if="episode.type == type[0]">
-	        <div class="episode-season">{{episode.season || '-'}}</div>
+	        <div ng-if="episode.season" class="episode-season">{{episode.season || '-'}}</div>
 	        <div class="episode-number">{{episode.number || '-'}}</div>
 	        <div class="episode-name">{{episode.name}}</div>
 	      </div>
